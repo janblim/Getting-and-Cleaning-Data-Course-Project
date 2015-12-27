@@ -1,9 +1,9 @@
-Data Dictionary - tidy data for course project “Getting and Cleaning Data”
+#Data Dictionary - tidy data for course project “Getting and Cleaning Data”
 
-subject
+- subject
 	Contains subjects (1-30) who participated in the trial and test.
 
-activity.id
+- activity.id
 Contains activity IDs used the y_…txt file.
 	
 	1 WALKING
@@ -13,7 +13,7 @@ Contains activity IDs used the y_…txt file.
 	5 STANDING
 	6 LAYING
 
-activity
+- activity
 	Contains the names of activities.
 
 - The following are the variables included in the tidy data. Each variable is a summary of the means of all measurement means and standard deviations for each subject X activity combination. 

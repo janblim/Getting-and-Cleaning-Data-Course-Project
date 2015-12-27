@@ -1,10 +1,8 @@
 #Data Dictionary - tidy data for course project “Getting and Cleaning Data”
 
-- subject
-	Contains subjects (1-30) who participated in the trial and test.
+- subject: Contains subjects (1-30) who participated in the trial and test.
 
-- activity.id
-Contains activity IDs used the y_…txt file.
+- activity.id: Contains activity IDs used the y_…txt file.
 	
   - 1 WALKING
   - 2 WALKING_UPSTAIRS
@@ -13,8 +11,7 @@ Contains activity IDs used the y_…txt file.
   - 5 STANDING
   - 6 LAYING
 
-- activity
-	Contains the names of activities.
+- activity: Contains the names of activities.
 
 - The following are the variables included in the tidy data. Each variable is a summary of the means of all measurement means and standard deviations for each subject X activity combination. 
 
@@ -48,62 +45,62 @@ Legend
 - tGravityAcc.mean...Z
 - tBodyAccJerk.mean...X
 - tBodyAccJerk.mean...Y
-		tBodyAccJerk.mean...Z
-		tBodyGyro.mean...X
-		tBodyGyro.mean...Y
-		tBodyGyro.mean...Z
-		tBodyGyroJerk.mean...X
-		tBodyGyroJerk.mean...Y
-		tBodyGyroJerk.mean...Z
-		tBodyAccMag.mean..
-		tGravityAccMag.mean..
-		tBodyAccJerkMag.mean..
-		tBodyGyroMag.mean..
-		tBodyGyroJerkMag.mean..
-		fBodyAcc.mean...X
-		fBodyAcc.mean...Y
-		fBodyAcc.mean...Z
-		fBodyAccJerk.mean...X
-		fBodyAccJerk.mean...Y
-		fBodyAccJerk.mean...Z
-		fBodyGyro.mean...X
-		fBodyGyro.mean...Y
-		fBodyGyro.mean...Z
-		fBodyAccMag.mean..
-		fBodyBodyAccJerkMag.mean..
-		fBodyBodyGyroMag.mean..
-		fBodyBodyGyroJerkMag.mean..
-		angle.tBodyAccJerkMean..gravityMean.
-		tBodyAcc.std...X
-		tBodyAcc.std...Y
-		tBodyAcc.std...Z
-		tGravityAcc.std...X
-		tGravityAcc.std...Y
-		tGravityAcc.std...Z
-		tBodyAccJerk.std...X
-		tBodyAccJerk.std...Y
-		tBodyAccJerk.std...Z
-		tBodyGyro.std...X
-		tBodyGyro.std...Y
-		tBodyGyro.std...Z
-		tBodyGyroJerk.std...X
-		tBodyGyroJerk.std...Y
-		tBodyGyroJerk.std...Z
-		tBodyAccMag.std..
-		tGravityAccMag.std..
-		tBodyAccJerkMag.std..
-		tBodyGyroMag.std..
-		tBodyGyroJerkMag.std..
-		fBodyAcc.std...X
-		fBodyAcc.std...Y
-		fBodyAcc.std...Z
-		fBodyAccJerk.std...X
-		fBodyAccJerk.std...Y
-		fBodyAccJerk.std...Z
-		fBodyGyro.std...X
-		fBodyGyro.std...Y
-		fBodyGyro.std...Z
-		fBodyAccMag.std..
-		fBodyBodyAccJerkMag.std..
-		fBodyBodyGyroMag.std..
-		fBodyBodyGyroJerkMag.std..
+- tBodyAccJerk.mean...Z
+- tBodyGyro.mean...X
+- tBodyGyro.mean...Y
+- tBodyGyro.mean...Z
+- tBodyGyroJerk.mean...X
+- tBodyGyroJerk.mean...Y
+- tBodyGyroJerk.mean...Z
+- tBodyAccMag.mean..
+- tGravityAccMag.mean..
+- tBodyAccJerkMag.mean..
+- tBodyGyroMag.mean..
+- tBodyGyroJerkMag.mean..
+- fBodyAcc.mean...X
+- fBodyAcc.mean...Y
+- fBodyAcc.mean...Z
+- fBodyAccJerk.mean...X
+- fBodyAccJerk.mean...Y
+- fBodyAccJerk.mean...Z
+- fBodyGyro.mean...X
+- fBodyGyro.mean...Y
+- fBodyGyro.mean...Z
+- fBodyAccMag.mean..
+- fBodyBodyAccJerkMag.mean..
+- fBodyBodyGyroMag.mean..
+- fBodyBodyGyroJerkMag.mean..
+- angle.tBodyAccJerkMean..gravityMean.
+- tBodyAcc.std...X
+- tBodyAcc.std...Y
+- tBodyAcc.std...Z
+- tGravityAcc.std...X
+- tGravityAcc.std...Y
+- tGravityAcc.std...Z
+- tBodyAccJerk.std...X
+- tBodyAccJerk.std...Y
+- tBodyAccJerk.std...Z
+- tBodyGyro.std...X
+- tBodyGyro.std...Y
+- tBodyGyro.std...Z
+- tBodyGyroJerk.std...X
+- tBodyGyroJerk.std...Y
+- tBodyGyroJerk.std...Z
+- tBodyAccMag.std..
+- tGravityAccMag.std..
+- tBodyAccJerkMag.std..
+- tBodyGyroMag.std..
+- tBodyGyroJerkMag.std..
+- fBodyAcc.std...X
+- fBodyAcc.std...Y
+- fBodyAcc.std...Z
+- fBodyAccJerk.std...X
+- fBodyAccJerk.std...Y
+- fBodyAccJerk.std...Z
+- fBodyGyro.std...X
+- fBodyGyro.std...Y
+- fBodyGyro.std...Z
+- fBodyAccMag.std..
+- fBodyBodyAccJerkMag.std..
+- fBodyBodyGyroMag.std..
+- fBodyBodyGyroJerkMag.std..

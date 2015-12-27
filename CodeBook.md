@@ -5,12 +5,13 @@ subject
 
 activity.id
 Contains activity IDs used the y_…txt file.
-		1 WALKING
-		2 WALKING_UPSTAIRS
-		3 WALKING_DOWNSTAIRS
-		4 SITTING
-		5 STANDING
-		6 LAYING
+	
+	1 WALKING
+	2 WALKING_UPSTAIRS
+	3 WALKING_DOWNSTAIRS
+	4 SITTING
+	5 STANDING
+	6 LAYING
 
 activity
 	Contains the names of activities.
